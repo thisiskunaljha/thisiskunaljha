@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Kunal
-- 👀 I’m interested in Competitive Programming 
-- 🌱 I’m currently learning Data Structure and Algorithms 
-- 💞️ I’m looking to collaborate on any internships
-- 📫 I attached my Linkedin Profile
+- Hi, I’m Kunal
+- I’m interested in Competitive Programming 
+- I’m currently learning Data Structure and Algorithms 
 
 <!---
 thisiskunaljha/thisiskunaljha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
