@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisiskunaljha
+- 👋 Hi, I’m Kunal
 - 👀 I’m interested in Competitive Programming 
 - 🌱 I’m currently learning Data Structure and Algorithms 
 - 💞️ I’m looking to collaborate on any internships
